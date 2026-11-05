@@ -1,4 +1,4 @@
-# ☁️ Kumo — Your Buddy Desktop
+# ☁️ Kumo - Your Buddy Desktop
 
 <p align="center">
   <strong>A little presence. Always with you.</strong>
@@ -98,11 +98,10 @@ Kumo is more than a finished-product announcement. Its development is an ongoing
 
 Follow the project and stay connected through its official channels.
 
-- **Website:** [Kumo Official Website](YOUR_WEBSITE_URL)
-- **TikTok:** [Kumo on TikTok](YOUR_TIKTOK_URL)
-- **Instagram:** [Kumo on Instagram](YOUR_INSTAGRAM_URL)
-- **Medium:** [Development Stories](YOUR_MEDIUM_URL)
-- **Community:** [Kumo Community](YOUR_COMMUNITY_URL)
+- **Website:** [Kumo Official Website](https://kumo-lemon.vercel.app)
+- **TikTok:** [Kumo on TikTok](https://www.tiktok.com/@anonimbaruaja0)
+- **Instagram:** [Kumo on Instagram](-)
+- **Medium:** [Development Stories](https://medium.com/@psoputt)
 
 ## About This Repository
 
